@@ -1,4 +1,4 @@
-# EvoArena – Adaptive Meta-AI Combatants
+# NeuroClash – Adaptive Meta-AI Combatants
 
 Monorepo with frontend (Three.js), backend (FastAPI + PyTorch stubs), and contracts (Hardhat + OpenZeppelin).
 
